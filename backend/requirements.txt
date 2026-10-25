@@ -1,0 +1,13 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.6.0
+Flask-CORS==4.0.1
+Flask-Migrate==4.0.7
+python-dotenv==1.0.1
+Werkzeug==3.0.4
+rapidfuzz==3.9.0
+# Google Gemini - new google.genai SDK (v2.x)
+# NOTE: The old google.generativeai SDK (v0.8.x) is deprecated and no longer supported.
+google-genai>=2.16.0
+openai==1.55.0
+reportlab==4.0.9
